@@ -8,7 +8,7 @@ export const countContacts = async () => {
     // Читаємо контакти з файлу 'db.json'
     const contacts = await readContacts();
     console.log(path.resolve('src', 'db', 'db.json'));
-    console.log(path.join(process.cwd(), 'src', 'db', 'db.json'));
+
     // Повертаємо повідомлення про загальну кількість контактів
     return `✅ Загальна кількість контактів - ${contacts.length}`;
   } catch (error) {
