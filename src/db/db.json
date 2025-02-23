@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "bc0e6b74-db8a-48ea-80cb-f03167277de3",
+    "name": "Susie Kohler",
+    "phone": "750.799.7553 x10069",
+    "email": "Libby_Langosh88@gmail.com",
+    "job": "Customer Applications Coordinator"
+  },
+  {
+    "id": "24d3fee6-b129-4b34-8f78-2b48315aa0d7",
+    "name": "Alejandro Hand",
+    "phone": "468.650.7554 x4209",
+    "email": "Gianni.Robel@hotmail.com",
+    "job": "Chief Factors Coordinator"
+  },
+  {
+    "id": "7e37e2d5-e431-42c6-9ca9-63630425ce14",
+    "name": "Lionel Bernier",
+    "phone": "(710) 527-5056 x9876",
+    "email": "Herminia75@yahoo.com",
+    "job": "Future Creative Orchestrator"
+  },
+  {
+    "id": "05827e76-52e8-4268-b4e9-4fd33147b898",
+    "name": "Stewart Gerhold",
+    "phone": "225.592.7190 x4789",
+    "email": "Halle_Schuppe10@gmail.com",
+    "job": "Senior Web Orchestrator"
+  }
+]
